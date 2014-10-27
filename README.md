@@ -1,7 +1,5 @@
 # FightApp  Project 1-version 1.0 10/26/2014
 ***
-***
-
 GA WDI DC October 2014
 
 ##Overview
@@ -14,12 +12,12 @@ This App will weed out all the so-so fight clips leaving only the best of the be
 
 ## Dependencies/Technology Used
 
-+Ruby 2.1.2
-+Ruby on Rails 4.1.6
-+PostgreSQL Database
-+authentication & Authorization (bcrypt-ruby)
-+YouTube API with HTTParty
-+Testing using rspec-rails, capybara
++ Ruby 2.1.2
++ Ruby on Rails 4.1.6
++ PostgreSQL Database
++ Authentication & Authorization (bcrypt-ruby)
++ YouTube API with HTTParty
++ Testing using rspec-rails, capybara
 ---
 
 ## User Stories
