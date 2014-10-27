@@ -5,16 +5,14 @@
 GA WDI DC October 2014
 
 ##Overview
-***
+
 FightApp is meant to reduce the amount of time wasted looking for good fight clip, by having only "a hand picked selection" of the best fight scenes, chosen by users that know what a Glorious Battle looks like!
 
 FightApp is focused on having 'Only the Best' Martial arts and Anime, fight scenes.
 
 This App will weed out all the so-so fight clips leaving only the best of the best for your viewing pleasure.
----
 
 ## Dependencies/Technology Used
-***
 
 +Ruby 2.1.2
 +Ruby on Rails 4.1.6
@@ -25,16 +23,14 @@ This App will weed out all the so-so fight clips leaving only the best of the be
 ---
 
 ## User Stories
-***
 
-+Users may choose to simply browse and not sign up.
++ Users may choose to simply browse and not sign up.
 **restrictions:** unnable to comment, vote on videos, or upload videos.
-+Users that **sign** up may comment and vote on videos.  Even upload there own videos.
-+All video clips, start out in a 'Amateur Pool of movie clips'.  Users vote on which fight clip is "Legendary".
-+When a fight clip gets 10 likes from Users, then that video moves on to 'Legendary Fight' status--front and center via Landing Page.
++ Users that **sign** up may comment and vote on videos.  Even upload there own videos.
++ All video clips, start out in a 'Amateur Pool of movie clips'.  Users vote on which fight clip is "Legendary".
++ When a fight clip gets 10 likes from Users, then that video moves on to 'Legendary Fight' status--front and center via Landing Page.
 Else, if video gets 10 dislikes, video is deleted and replaced with a new clip automatically.
-+only 5 of the most recently "promoted" videos may sit on the Homepage at a time.   A library will house all prior "Legendary Clips", for Users viewing pleasure.
----
++ only 5 of the most recently "promoted" videos may sit on the Homepage at a time.   A library will house all prior "Legendary Clips", for Users viewing pleasure.
 
 Phase I - Implement "User can vote", video's in "Amateur Pool" must be embedded, using youtube API.  Videos must also Delete/remove automatically |or| move to Landing Page --based  on vote count.
 
