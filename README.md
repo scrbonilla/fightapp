@@ -18,7 +18,6 @@ This App will weed out all the so-so fight clips leaving only the best of the be
 + Authentication & Authorization (bcrypt-ruby)
 + YouTube API with HTTParty
 + Testing using rspec-rails, capybara
----
 
 ## User Stories
 
