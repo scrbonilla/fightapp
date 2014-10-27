@@ -30,7 +30,15 @@ require/dependencies - Bootstrap, sass/scss, other gems.
 
  relevant link:
 
-[ERD for FightApp](https://www.lucidchart.com/invitations/accept/75f6d466-50c3-474d-9c3f-f86340d8f0f0)
+[finalERD for FightApp](https://www.lucidchart.com/invitations/accept/75f6d466-50c3-474d-9c3f-f86340d8f0f0)
+
+visuals:
+[landing](http://i.imgur.com/WHxL7br.jpg)
+[1stERD](http://i.imgur.com/casTQG2.jpg)
+[Page2](http://i.imgur.com/gCZVaNn.jpg)
+
+[Champion](http://i.imgur.com/mdpj27n.jpg)
+
 
 
 
