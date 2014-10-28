@@ -14,5 +14,7 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
-require 'bootstrap'
+//= require bootstrap
+//= require jquery.bind_with_delay
+//= require yt_player
 
